@@ -5,7 +5,7 @@ Minimalist Design Login UI Using Flutter Framework.
 Minimalist Login UI is a design implementaion of [Sign In/Sing Up](https://www.behance.net/gallery/88214279/Sign-InSing-Up?tracking_source=search%7Clogin%20ui) designed by [Júlio Teles](https://www.behance.net/julio-teles)
 
 ## Download App 
-<a href="https://github.com/developerRsam/Minimalist-login-UI/blob/master/Screenshots/app-x86_64-release.apk"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
+<a href="https://github.com/developerRsam/Minimalist-login-UI/blob/master/Screenshots/app-x86_64-release.apk?raw=true"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
 
 
 ![alt text](https://github.com/developerRsam/Minimalist-login-UI/blob/master/Screenshots/uidesign_git.png)
