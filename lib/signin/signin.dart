@@ -93,7 +93,7 @@ class _SignInState extends State<SignIn> {
                       decoration: InputDecoration(
                         border: InputBorder.none,
                         contentPadding: EdgeInsets.symmetric(horizontal: 45),
-                        hintText: 'Name',
+                        hintText: 'Enter your name',
                         hintStyle: TextStyle(
                           color: Colors.white,
                         ),
@@ -111,7 +111,7 @@ class _SignInState extends State<SignIn> {
                       decoration: InputDecoration(
                         border: InputBorder.none,
                         contentPadding: EdgeInsets.symmetric(horizontal: 45),
-                        hintText: 'Password',
+                        hintText: 'Entar your password',
                         hintStyle: TextStyle(
                           color: Colors.white,
                         ),
